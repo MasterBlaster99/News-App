@@ -1,0 +1,3 @@
+rootProject.name = "Feed News"
+include ':app'
+include ':nativetemplates'
